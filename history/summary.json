@@ -4,18 +4,19 @@
     "url": "https://telkombusiness.co.za/",
     "icon": "https://favicons.githubusercontent.com/telkombusiness.co.za",
     "slug": "telkom-business",
-    "status": "up",
-    "uptime": "95.64%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "95.64%",
-    "uptimeYear": "95.64%",
+    "status": "down",
+    "uptime": "97.29%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
     "time": 4535,
     "timeDay": 4538,
     "timeWeek": 4535,
     "timeMonth": 4535,
     "timeYear": 4535,
     "dailyMinutesDown": {
+      "2021-01-24": 0,
       "2021-01-23": 17,
       "2021-01-22": 83
     }
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 1111,
-    "timeWeek": 1006,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "time": 971,
+    "timeDay": 864,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {}
   }
 ]
