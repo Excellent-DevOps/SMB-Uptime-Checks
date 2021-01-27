@@ -8,6 +8,10 @@ sites:
     url: https://telkombusiness.co.za/
   - name: Yep Store
     url: https://www.yep.co.za/
+  - name: Freedat
+    url: https://business.freedat.co.za/home
+  - name: Trudon
+    url: https://trudondigital.co.za/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
