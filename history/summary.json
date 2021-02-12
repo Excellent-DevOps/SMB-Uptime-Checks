@@ -42,19 +42,19 @@
     "url": "https://www.yep.co.za/",
     "icon": "https://favicons.githubusercontent.com/www.yep.co.za",
     "slug": "yep-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 719,
-    "timeWeek": 786,
-    "timeMonth": 878,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 880,
+    "timeDay": 782,
+    "timeWeek": 799,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {
-      "2021-02-12": 0
+      "2021-02-12": 33
     }
   },
   {
