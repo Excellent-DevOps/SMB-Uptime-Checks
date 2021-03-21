@@ -4,7 +4,7 @@
     "url": "https://telkombusiness.co.za/",
     "icon": "https://favicons.githubusercontent.com/telkombusiness.co.za",
     "slug": "telkom-business",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
@@ -12,7 +12,7 @@
     "uptimeYear": "98.38%",
     "time": 5737,
     "timeDay": 6061,
-    "timeWeek": 5879,
+    "timeWeek": 5364,
     "timeMonth": 6965,
     "timeYear": 5737,
     "dailyMinutesDown": {
